@@ -1,0 +1,11 @@
+.property__details {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.property__details__list {
+  display: grid;
+  gap: 12px;
+}
+
